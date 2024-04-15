@@ -2,4 +2,4 @@
 
 # Visit https://www.edx.org/cs50
 
-# 2022-05-05
+2022-05-05
